@@ -1,0 +1,16 @@
+sample-id	forward-absolute-filepath	reverse-absolute-filepath
+BN1A_G_S154	/mnt/scratch/wisnoskilab/jrp889/USC-sequences/BN1A_G_S154_R1.fastq	/mnt/scratch/wisnoskilab/jrp889/USC-sequences/BN1A_G_S154_R2.fastq
+BN1B_G_S155	/mnt/scratch/wisnoskilab/jrp889/USC-sequences/BN1B_G_S155_R1.fastq	/mnt/scratch/wisnoskilab/jrp889/USC-sequences/BN1B_G_S155_R2.fastq
+BN1C_G_S156	/mnt/scratch/wisnoskilab/jrp889/USC-sequences/BN1C_G_S156_R1.fastq	/mnt/scratch/wisnoskilab/jrp889/USC-sequences/BN1C_G_S156_R2.fastq
+BN2A_G_S157	/mnt/scratch/wisnoskilab/jrp889/USC-sequences/BN2A_G_S157_R1.fastq	/mnt/scratch/wisnoskilab/jrp889/USC-sequences/BN2A_G_S157_R2.fastq
+BN2B_G_S158	/mnt/scratch/wisnoskilab/jrp889/USC-sequences/BN2B_G_S158_R1.fastq	/mnt/scratch/wisnoskilab/jrp889/USC-sequences/BN2B_G_S158_R2.fastq
+BN2C_G_S159	/mnt/scratch/wisnoskilab/jrp889/USC-sequences/BN2C_G_S159_R1.fastq	/mnt/scratch/wisnoskilab/jrp889/USC-sequences/BN2C_G_S159_R2.fastq
+BN3A_G_S160	/mnt/scratch/wisnoskilab/jrp889/USC-sequences/BN3A_G_S160_R1.fastq	/mnt/scratch/wisnoskilab/jrp889/USC-sequences/BN3A_G_S160_R2.fastq
+BN3B_G_S161	/mnt/scratch/wisnoskilab/jrp889/USC-sequences/BN3B_G_S161_R1.fastq	/mnt/scratch/wisnoskilab/jrp889/USC-sequences/BN3B_G_S161_R2.fastq
+BN3C_G_S162	/mnt/scratch/wisnoskilab/jrp889/USC-sequences/BN3C_G_S162_R1.fastq	/mnt/scratch/wisnoskilab/jrp889/USC-sequences/BN3C_G_S162_R2.fastq
+OL1A_G_S163	/mnt/scratch/wisnoskilab/jrp889/USC-sequences/OL1A_G_S163_R1.fastq	/mnt/scratch/wisnoskilab/jrp889/USC-sequences/OL1A_G_S163_R2.fastq
+OL1B_G_S164	/mnt/scratch/wisnoskilab/jrp889/USC-sequences/OL1B_G_S164_R1.fastq	/mnt/scratch/wisnoskilab/jrp889/USC-sequences/OL1B_G_S164_R2.fastq
+OL1C_G_S165	/mnt/scratch/wisnoskilab/jrp889/USC-sequences/OL1C_G_S165_R1.fastq	/mnt/scratch/wisnoskilab/jrp889/USC-sequences/OL1C_G_S165_R2.fastq
+OL2A_G_S166	/mnt/scratch/wisnoskilab/jrp889/USC-sequences/OL2A_G_S166_R1.fastq	/mnt/scratch/wisnoskilab/jrp889/USC-sequences/OL2A_G_S166_R2.fastq
+OL2B_G_S167	/mnt/scratch/wisnoskilab/jrp889/USC-sequences/OL2B_G_S167_R1.fastq	/mnt/scratch/wisnoskilab/jrp889/USC-sequences/OL2B_G_S167_R2.fastq
+OL2C_G_S168	/mnt/scratch/wisnoskilab/jrp889/USC-sequences/OL2C_G_S168_R1.fastq	/mnt/scratch/wisnoskilab/jrp889/USC-sequences/OL2C_G_S168_R2.fastq

@@ -1,0 +1,9 @@
+# QIIME 2 artifacts
+*.qza
+*.qzv
+
+# Raw sequence files
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
