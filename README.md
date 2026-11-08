@@ -1,6 +1,8 @@
 # 16SrRNA-Cebu-Mangrove-Sediment-Comparison
 This repository contains the scripts and supporting files used to analyze sediment bacterial communities from natural and planted mangrove forests in Cebu, Philippines. The study used 16S rRNA gene amplicon sequencing to compare bacterial community composition, diversity, environmental associations, and predicted functional potential among mangrove sites.
 
+Accession number for sequences: PRJNA1558066
+
 This repository supports transparency and reproducibility of the analyses reported in the associated manuscript.
 
 ## Study overview
@@ -31,7 +33,7 @@ Functional prediction using PICRUSt2
 
 Contains SLURM-compatible Bash scripts used for sequence processing, taxonomic classification, taxonomic filtering, phylogenetic tree construction, rarefaction analysis, diversity analysis, and data export using QIIME2.
 
-The scripts are numbered according to execution order by the researcher.
+The scripts are numbered according to the execution order by the researcher.
 
 ### Shell-scripts-Picrust2
 
